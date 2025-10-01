@@ -89,7 +89,7 @@ window.onclick = function (e) {
 };
 
 /* ==== TYPING MODERN DI HERO ==== */
-const roles = ["Mahasiswa Informatika", "Web Developer Enthusiast", "UI/UX Learner", "Tech Explorer"];
+const roles = ["Mahasiswa Informatika", "Penggemar Web Development", "Pembelajar UI/UX", "Penjelajah Teknologi"];
 
 let index = 0;
 let charIndex = 0;
